@@ -1,0 +1,10 @@
+
+#parent{
+    height: 100%;
+    width:100%;
+}
+#box1{
+    height:30%;
+    width:25%;
+    background-color: aqua;
+}
