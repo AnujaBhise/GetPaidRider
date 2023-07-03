@@ -10,30 +10,30 @@ timeline1.from('.hero-content',{duration:0.6,ease:"power2.out",opacity:0,y:-40})
 timeline1.from('.illustrations',{duration:0.6,ease:"power2.out",opacity:0});
 
 gsap.to("#red-car",{
-    duration:5,
+    duration:3,
     x:1975,//for movrment on road
-    y:430,//for left and right side on road
+    y:400,//for left and right side on road
     ease:"none",
     repeat:4,
     repeatDelay:2,
 
 })
 gsap.to("#blue-car",{
-    duration:7,//for speed
+    duration:9,//for speed
     x:700,//for movrment on road
-    y:234,//for left and right side on road
+    y:210,//for left and right side on road
     ease:"none",
     repeat:5,//how many times the car should keep moving
     repeatDelay:1,
 
 })
-// gsap.to("#yellow-car",{
-//     duration:7,
-//     x:884,//for movrment on road
-//     y:1114,//for left and right side on road
-//     ease:"none",
-//     repeat:4,
-//     repeatDelay:1,
+gsap.to("#yellow-car",{
+    duration:6,
+    x:884,//for movrment on road
+    y:1140,//for left and right side on road
+    ease:"none",
+    repeat:4,
+    repeatDelay:1,
 
-// })
+})
 
