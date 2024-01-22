@@ -1,4 +1,3 @@
-
 🚘 GetPaidRider Landing Page
 
 This repository showcases the code for GetPaidRider's landing page, designed to attract drivers. Built with HTML, CSS, and GSAP, it offers a visually engaging experience.
