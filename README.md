@@ -3,7 +3,11 @@
 This repository showcases the code for GetPaidRider's landing page, designed to attract drivers. Built with HTML, CSS, and GSAP, it offers a visually engaging experience.
 
 ## 👀 Preview
-![GetPaidRider Landing Page](https://github.com/LearnerAnuja/GetPaidRider/assets/96904529/256db461-d629-4e60-9b6e-a9efe460dac5)
+
+
+https://github.com/AnujaBhise/GetPaidRider/assets/96904529/102b2b24-7c06-4b8c-aa2a-28c33dd6dc32
+
+
 
 ### GetPaidRider Landing Page
 
